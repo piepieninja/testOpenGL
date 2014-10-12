@@ -5,6 +5,7 @@ Caleb Adams
 -----------
 
 [CalebDevelops.com](http://www.calebdevelops.com)
+Contact me at: CalebAshmoreAdams@gmail.com
 
 Testing OpenGLES on Android. Works on Android Studio v0.8.2 (beta)
 
